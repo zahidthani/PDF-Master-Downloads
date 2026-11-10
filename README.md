@@ -16,6 +16,10 @@ Read, edit text and images, comment, fill and sign forms, build forms, organize 
 | Windows, no installer needed | `PDF-Master-<version>-win-x64-portable.zip` |
 | Linux (x64) | `PDF-Master-<version>-linux-x86_64.AppImage` |
 
+## A 14-day test version
+
+The versions on this page are **test builds**. Each one works for 14 days from the first time you open it on a computer, and shows how many days are left. After that it shows a thank-you message instead of opening documents. Your files are never changed, locked or deleted, and you can keep opening them in any other PDF app.
+
 ## The first time you open it
 
 The app isn't signed with a paid Apple or Microsoft certificate, so your computer warns you once.
